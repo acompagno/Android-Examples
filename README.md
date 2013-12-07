@@ -14,6 +14,7 @@ Sample Android project with many useful examples focused around creating views p
 ## Set up the project
 1. Clone the Repo to your computer 
 2. Import the project into your IDE, in my case I'm using Eclipse. 
+![Alt text](https://raw.github.com/acompagno/Android-Examples/master/Images/import_icon.png)
 3. Set up the project properties, make sure to a include the Android V7 library and set the build target to Android 4.4
 4. The project should now be properly set up :)
 
