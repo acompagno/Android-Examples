@@ -1,6 +1,8 @@
 Android-Examples
 ================
 
+![Project Properties](https://raw.github.com/acompagno/Android-Examples/master/Images/Icon.png)
+
 Sample Android project with many useful examples focused around creating views programically. This sample project not only has simple examples, but it also displays how to set up and use the different compatibiliy libraries for Android and even set up the new DrawerLayout. 
 
 ## Included Examples 
@@ -14,11 +16,11 @@ Sample Android project with many useful examples focused around creating views p
 ## Set up the project
 1. Clone the Repo to your computer 
 2. Import the project into your IDE, in my case I'm using Eclipse. 
-![Alt text](https://raw.github.com/acompagno/Android-Examples/master/Images/import_icon.png)
-![Alt text](https://raw.github.com/acompagno/Android-Examples/master/Images/import_icon.png)
-![Alt text](https://raw.github.com/acompagno/Android-Examples/master/Images/import_icon.png)
-![Alt text](https://raw.github.com/acompagno/Android-Examples/master/Images/import_icon.png)
+![Import icon](https://raw.github.com/acompagno/Android-Examples/master/Images/import_icon.png)
+![Import from existing code](https://raw.github.com/acompagno/Android-Examples/master/Images/existing_code.png)
+![Import project](https://raw.github.com/acompagno/Android-Examples/master/Images/import.png)
 3. Set up the project properties, make sure to a include the Android V7 library and set the build target to Android 4.4
+![Project Properties](https://raw.github.com/acompagno/Android-Examples/master/Images/properties.png)
 4. The project should now be properly set up :)
 
 ## Libraries
